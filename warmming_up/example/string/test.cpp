@@ -27,6 +27,10 @@
 
 using namespace std;
 
+class test {
+
+};
+
 int main(void) {
 
     string s = "zzyytestf";
